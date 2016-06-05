@@ -16,7 +16,7 @@ Please note that I am not the author or a contributor to any of these dependency
 Guideline
 *********
 
-Clone the repository and work through all the dependencies in the order given below. Feel free to try and use a version of *MSVC* you like or substitute one version of a library with a *newer/older* one. The result of all the steps for MSVC11, x64 and lxml-3.6.0 can be found in the */bin* folder.
+Clone the repository and work through all the dependencies in the order given below. Feel free to try and use a version of *MSVC* you like or substitute one version of a library with a *newer/older* one. Each subfolder contains an own *README* with a specific guide for the current library. The result of all the steps for MSVC11, x64 and lxml-3.6.0 can be found in the */bin* folder.
 
 1. zlib
 2. libiconv
